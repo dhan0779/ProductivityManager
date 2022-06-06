@@ -19,3 +19,5 @@ We learned how to integrate cloud computing services with our website and proces
 
 ## What's next for Productivity Manager
 We aim to add more features to the Productivity Manager and remove any small issues to make it not much of a hindrance for the user, but rather have it running smoothly in the background whenever they are working. We also hope to improve the accuracy of our models to detect eyes and phones more instantaneously.
+
+https://devpost.com/software/kinesis-d7n90g - submitted to HackTJ 8.0
